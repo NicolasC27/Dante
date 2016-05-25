@@ -1,0 +1,11 @@
+/*
+** display.c for display.c in /home/cheval_8/rendu/dante/astar/bonus
+**
+** Made by Nicolas Chevalier
+** Login   <cheval_8@epitech.net>
+**
+** Started on  Sun May 22 22:54:08 2016 Nicolas Chevalier
+** Last update Sun May 22 22:54:14 2016 Nicolas Chevalier
+*/
+
+#include "my.h"
